@@ -43,7 +43,7 @@
 
 
 /* CSS code */
-/* importing font */
+
 
 @font-face {
     font-family: Netflix_Sans_Regular;
